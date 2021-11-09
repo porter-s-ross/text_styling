@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-family: monospace;
+    height: 75px;
+}
+
+h2{
+    color:white;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    font-family: monospace;
+    height: 50px;
+}
+
+h3{
+    color:rebeccapurple;
+    background-color: #48adc7;
+    text-align: right;
+    text-decoration: underline;
+    font-family: monospace;
+    height: 30px;
+}
